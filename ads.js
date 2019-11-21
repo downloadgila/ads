@@ -1,4 +1,3 @@
-<script language="JavaScript">
 <!-- Begin
 var jumlah_iklan = 7; / Jumlah Iklan /
 var waktu_sekarang = new Date()
@@ -64,4 +63,3 @@ document.write('title=\"' + title + '\" target="_blank">');
 document.write('<span style="color:#333;"><small>' + link + '</small></span></a>');
 document.write('</div>');
 // End -->
-</script>
