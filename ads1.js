@@ -63,4 +63,3 @@ document.write('title=\"' + title + '\" target="_blank">');
 document.write('<span style="color:#333;"><small>' + link + '</small></span></a>');
 document.write('</div>');
 // End -->
-<div style='background: repeating-linear-gradient(135deg,transparent 0,transparent 20%,#ddd 100px,#fff 1000px); width:100px; height:20px; padding-right:0px; float:right; margin-top:-8px; margin-right:-5px;'><span style='float:right; padding-right:5px; margin-bottom:6px;'><a href='https://informasikontes.blogspot.com/' target='_blank'><span style='color:#777; font-size:9px; text-align:right;'>Ads News</span></a></span></div>
