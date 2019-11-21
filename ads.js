@@ -20,14 +20,14 @@ link="www.BrowserCrypto.com";
 }
 if (pasang_iklan==3) {
 txt="Free Download Mp3 Top Chart, Top Hts, Pop, Rock, Folk, Ballads, Reggae, Punk, Metal, Dangdut, etc....";
-url="http://downloaddgila.blogspot.com";
+url="https://downloadgila.blogspot.com";
 title="Free Download Mp3";
 judul="Free Download Mp3";
-link="www.downloaddgila.com";
+link="www.downloadgila.com";
 }
 if (pasang_iklan==4) {
 txt="Free Download Mp3, Lyrics, Video here....";
-url="http://lyricsexplorer.blogspot.com";
+url="https://lyricsexplorer.blogspot.com";
 title="Download Lyrics Top Chart Mp3";
 judul="Download Lyrics Top Chart Mp3";
 link="www.lyricsexplorer.com";
@@ -48,7 +48,7 @@ link="www.freebitco.in";
 }
 if (pasang_iklan==7) {
 txt="Free download wallpaper windows xp, windows vista, windows 7, mac OS, nature wallpapers, celebrities wallpapers, etc.......";
-url="http://wallpapers-area.blogspot.com";
+url="https://wallpapers-area.blogspot.com";
 title="Free Download Wallpapers";
 judul="Free Download Wallpapers";
 link="www.wallpapers-area.com";
