@@ -1,4 +1,4 @@
-<div style="background-color:transparent; padding:10px 5px 11px 5px; border:1px solid #ddd; margin-bottom:-40px; width:98%; margin-bottom:10px;"><script language="JavaScript">
+<script language="JavaScript">
 <!-- Begin
 var jumlah_iklan = 7; / Jumlah Iklan /
 var waktu_sekarang = new Date()
@@ -65,4 +65,3 @@ document.write('<span style="color:#333;"><small>' + link + '</small></span></a>
 document.write('</div>');
 // End -->
 </script>
-<div style="background: repeating-linear-gradient(135deg,transparent 0,transparent 20%,#ddd 100px,#fff 1000px); width:100px; height:20px; padding-right:0px; float:right; margin-top:-8px; margin-right:-5px;"><span style="float:right; padding-right:5px; margin-bottom:6px;"><a href="https://informasikontes.blogspot.com/" target="_blank"><span style="color:#777; font-size:9px; text-align:right;">Ads News</span></a></span></div></div>
