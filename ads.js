@@ -1,33 +1,34 @@
+<div style="background-color:transparent; padding:10px 5px 11px 5px; border:1px solid #ddd; margin-bottom:-40px; width:98%; margin-bottom:10px;"><script language="JavaScript">
 <!-- Begin
-var jumlah_iklan = 7; / Jumlah Iklan /
+var jumlah_iklan = 8; / Jumlah Iklan /
 var waktu_sekarang = new Date()
 var detik = waktu_sekarang.getSeconds()
 var pasang_iklan = detik % jumlah_iklan;
 pasang_iklan +=1;
 if (pasang_iklan==1) {
-txt="Terima hingga 50 token CPU gratis dengan bergabung dengan Airdrip. CPUcoin dapat mengumpulkan sumber daya cloud untuk digunakan dan merestrukturisasi menjadi jaringan sumber daya komputasi yang sangat luas hingga bisa menghasilkan mata uang Crypto Currencies.";
-url="http://bit.ly/qoinprominer";
-title="Cara Mudah Menghasilkan Mata Uang Crypto Dengan Qoinpro";
-judul="Cara Mudah Menghasilkan Mata Uang Crypto Dengan Qoinpro";
-link="www.qoinpro.com";
+txt="Info seputar kontes foto, kontes design, kontes blogger, kontes SEO, kontes film/video, kontes menulis, kuis, giveaway, kompetisi social media, undian, sayembara, dll...";
+url="https://informasikontes.blogspot.com/";
+title="Informasi Kontes";
+judul="Informasi Kontes";
+link="www.infokontes.com";
 }
 if (pasang_iklan==2) {
-txt="The best browser to watch videos on YouTube or browse anything on the internet so that you can generate payments in Bitcoins. Download the browser here...";
-url="http://bit.ly/browserearnbtc";
-title="Download browser for Youtube and earn more Bitcoin";
-judul="Download browser for Youtube and earn more Bitcoin";
-link="www.BrowserCrypto.com";
+txt="Main game bisa menghasilkan bitcoin, game sederhana, mudah, sudah terbukti bisa menghasilkan pundi-pundi bitcoin, terbukti legit tanpa harus menghabiskan waktu yang banyak...";
+url="https://play.google.com/store/apps/details?id=app.getloaded.bitcoinblast&hl=en";
+title="Game keren penghasil Bitcoin";
+judul="Game keren penghasil Bitcoin";
+link="www.BitcoinBlast.com";
 }
 if (pasang_iklan==3) {
 txt="Free Download Mp3 Top Chart, Top Hts, Pop, Rock, Folk, Ballads, Reggae, Punk, Metal, Dangdut, etc....";
-url="https://downloadgila.blogspot.com";
+url="http://downloaddgila.blogspot.com";
 title="Free Download Mp3";
 judul="Free Download Mp3";
-link="www.downloadgila.com";
+link="www.downloaddgila.com";
 }
 if (pasang_iklan==4) {
 txt="Free Download Mp3, Lyrics, Video here....";
-url="https://lyricsexplorer.blogspot.com";
+url="http://lyricsexplorer.blogspot.com";
 title="Download Lyrics Top Chart Mp3";
 judul="Download Lyrics Top Chart Mp3";
 link="www.lyricsexplorer.com";
@@ -48,10 +49,17 @@ link="www.freebitco.in";
 }
 if (pasang_iklan==7) {
 txt="Free download wallpaper windows xp, windows vista, windows 7, mac OS, nature wallpapers, celebrities wallpapers, etc.......";
-url="https://wallpapers-area.blogspot.com";
+url="http://wallpapers-area.blogspot.com";
 title="Free Download Wallpapers";
 judul="Free Download Wallpapers";
 link="www.wallpapers-area.com";
+}
+if (pasang_iklan==8) {
+txt="Kumpulan film-film pendek terbaik, keren, menginspirasi, karya sineas-sineas anak bangsa Indonesia...";
+url="http://indonesiashortmovie.blogspot.com/";
+title="Film Pendek Indonesia";
+judul="Film Pendek Indonesia";
+link="www.indonesiashortmovie.com";
 }
 document.write('<div style="padding:0px 10px 0px 10px;">');
 document.write('<a href=\"' + url + '\"_top\"');
@@ -63,3 +71,5 @@ document.write('title=\"' + title + '\" target="_blank">');
 document.write('<span style="color:#333;"><small>' + link + '</small></span></a>');
 document.write('</div>');
 // End -->
+</script>
+<div style="background: repeating-linear-gradient(135deg,transparent 0,transparent 20%,#ddd 100px,#fff 1000px); width:100px; height:20px; padding-right:0px; float:right; margin-top:-8px; margin-right:-5px;"><span style="float:right; padding-right:5px; margin-bottom:6px;"><a href="https://informasikontes.blogspot.com/" target="_blank"><span style="color:#777; font-size:9px; text-align:right;">Ads News</span></a></span></div></div>
