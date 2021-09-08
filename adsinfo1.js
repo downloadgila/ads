@@ -51,7 +51,7 @@ txt="Bestchange is a site that is engaged in virtual currency exchange including
 url="https://bit.ly/bestchangebitcoin";
 title="Earn Dollar & Bitcoin From Bestchange";
 judul="Earn Dollar & Bitcoin From Bestchange";
-link="www.wallpapers-area.com";
+link="www.bestchange.com";
 }
 if (pasang_iklan==8) {
 txt="Adbtc is a PTC (Paid-To-Click) site originating from Russia that offers you to earn in several ways such as clicking ads, shortlinks, viewing videos, etc. On the adBTC site you will also be paid as a member with crypto currency in the form of Bitcoin (BTC) and Russian Ruble....";
